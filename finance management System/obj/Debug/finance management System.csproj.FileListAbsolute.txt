@@ -1,0 +1,73 @@
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\finance management System.dll.config
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\finance management System.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\finance management System.pdb
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\csc.exe
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\csc.exe.config
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\csc.rsp
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\csi.exe
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\csi.exe.config
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\csi.rsp
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.AppContext.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Console.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Net.Http.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\vbc.exe
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\vbc.exe.config
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\vbc.rsp
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Antlr3.Runtime.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Newtonsoft.Json.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\System.Web.Optimization.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\WebGrease.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\System.Web.Optimization.xml
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Newtonsoft.Json.xml
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Antlr3.Runtime.pdb
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\obj\Debug\finance management System.csproj.AssemblyReference.cache
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\obj\Debug\finance management System.csproj.CoreCompileInputs.cache
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\obj\Debug\finance management System.csproj.CopyComplete
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\obj\Debug\finance management System.dll
+C:\Users\Vxl.Ru\source\repos\finance management System\finance management System\obj\Debug\finance management System.pdb
